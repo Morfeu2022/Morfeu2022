@@ -5,7 +5,7 @@ Sou um desenvolvedor focado no ecossistema Apple, especializado na criação de 
 - 👀 **Tenho interesse em:** Desenvolvimento iOS, SwiftData e integração de APIs de IA Generativa.
 - 🌱 **Atualmente estou aprendendo:** Arquiteturas escaláveis em Swift e o uso avançado do SDK do Google Gemini.
 - 💞️ **Estou procurando oportunidades de colaboração em:** Projetos de alta performance, análise de dados esportivos e soluções mobile inovadoras.
-- 📫 **Como me contatar:** [Seu e-mail ou link do LinkedIn aqui]
+- 📫 **Como me contatar:** [aurelio.am2018@gmail.com ou www.linkedin.com/in/devswift-aurelio-marques-298780204]
 
 ---
 
